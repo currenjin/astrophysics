@@ -26,9 +26,7 @@
 ## 천문학
 - [천문학 공부 블로그](https://m.blog.naver.com/PostList.naver?blogId=hongju3498&categoryNo=44&logCode=0)
 - [자바실험실 - 천문학 시뮬레이션](https://javalab.org/category/astronomy/)
-
-### 태양계 시뮬레이터
-- [Solar System Scope](https://www.solarsystemscope.com/)
+- [태양계 시뮬레이터(Solar System Scope)](https://www.solarsystemscope.com/)
 
 ## 개인 작업
 - [TDD로 구현한 행성의 공전 궤도 계산기](https://github.com/currenjin/planetary-orbital-calculator)
