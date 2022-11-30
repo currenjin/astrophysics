@@ -23,7 +23,7 @@
 - [쉽게 풀어쓴 케플러 제3법칙](https://blog.naver.com/a4gkyum/220798867585)
 
 ## 천문학
-- [천문학 공부 블로그](https://m.blog.naver.com/PostList.naver?blogId=hongju3498&categoryNo=44&logCode=0)
+- [쉽게 설명하는 천문학 블로그](https://m.blog.naver.com/PostList.naver?blogId=hongju3498&categoryNo=44&logCode=0)
 - [자바실험실 - 천문학 시뮬레이션](https://javalab.org/category/astronomy/)
 - [태양계 시뮬레이터(Solar System Scope)](https://www.solarsystemscope.com/)
 
