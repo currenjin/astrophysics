@@ -23,6 +23,7 @@
 - [라그랑주점(Lagrangian Points)](https://m.blog.naver.com/hongju3498/221078695031)
 - [탈출속도 구하기!](https://m.blog.naver.com/PostView.naver?blogId=hongju3498&logNo=220975843676&navType=by)
 - [별까지의 거리 측정 방법](https://m.blog.naver.com/hongju3498/221733762032)
+- [물리의 정석 - 연습 문제와 해답, 시연](https://madscitech.org/tm/)
 
 ### 케플러 법칙
 - [쉽게 풀어쓴 케플러 제1법칙](https://blog.naver.com/a4gkyum/220782654784)
