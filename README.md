@@ -66,11 +66,11 @@
 - [퀘이사(Quasar)](https://m.blog.naver.com/hongju3498/222210375941)
 
 ## 개인 작업
-- [TDD로 구현한 행성의 공전 궤도 계산기](https://github.com/currenjin/planetary-orbital-calculator)
+- [TDD로 구현한 행성의 공전 궤도 계산기](https://github.com/currenjin/alexandria-playground/tree/main/poc-planetary-orbital-calculator)
   - [220717 : 궤도 객체 구현](https://currenjin.github.io/wiki/test/#220717currenjinplanetaryorbitalcalculatororbit)
   - [220718 : 역기점 계산기 구현](https://currenjin.github.io/wiki/test/#220718currenjinplanetaryorbitalcalculatorjulianclock)
   - [220719 : 근일점 편각, 평균근점이각 계산](https://currenjin.github.io/wiki/test/#220719currenjinplanetaryorbitalcalculatorargumentofperiapsisandeccentricityanomalycalculator)
   - [220720 : 편심이각 계산](https://currenjin.github.io/wiki/test/#220720currenjinplanetaryorbitalcalculatoreccentricityanomalycalculator)
   - [220721 : 시간에 따른 궤도 요소 계산](https://currenjin.github.io/wiki/test/#220721currenjinplanetaryorbitalcalculatorcurrentorbitcalculator)
   - [220723 : 행성 궤도 계산(황도 좌표 평면의 좌표값, 유클리드 거리, 진근점 이각)](https://currenjin.github.io/wiki/test/#220723currenjinplanetaryorbitalcalculatorplanetarypositioncalculator)
-- [TDD로 구현한 케플러 법칙](https://github.com/currenjin/TDD/tree/main/kepler-laws)
+- [TDD로 구현한 케플러 법칙](https://github.com/currenjin/alexandria-playground/tree/main/poc-kepler-laws)
