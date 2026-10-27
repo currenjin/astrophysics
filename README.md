@@ -25,6 +25,11 @@
   - [암흑물질과 암흑에너지](#암흑물질과-암흑에너지)
   - [중력파](#중력파)
 - [시뮬레이션 & 시각화](#시뮬레이션--시각화)
+- [NASA 공개 관측 데이터와 활용 도구](#nasa-공개-관측-데이터와-활용-도구)
+  - [천문학과 천체물리학 데이터](#천문학과-천체물리학-데이터)
+  - [태양계와 행성 탐사 데이터](#태양계와-행성-탐사-데이터)
+  - [지구 관측 데이터와 Space Apps](#지구-관측-데이터와-space-apps)
+  - [API와 데이터 사용 시 주의사항](#api와-데이터-사용-시-주의사항)
 - [개인 작업](#개인-작업)
 
 ---
@@ -264,6 +269,71 @@
 - [Falstad's Lagrange Point Simulator](https://www.falstad.com/lagrange/) - 라그랑주점 궤도 조작 시뮬레이션
 - [Dark Matter Simulator](https://foothillastrosims.github.io/dark-matter/) - 은하 회전 곡선 암흑물질 시뮬레이션
 - [NASA SVS (Scientific Visualization Studio)](https://svs.gsfc.nasa.gov/) - NASA 공식 시각화 영상 모음
+
+---
+
+## NASA 공개 관측 데이터와 활용 도구
+
+개념을 배운 뒤 실제 관측 자료를 찾아보기 위한 목록. 관측 데이터 아카이브, 물리량을 정리한 데이터베이스, 계산 서비스, 시각화 도구를 구분한다. NASA가 직접 운영하거나 지원하는 자료를 중심으로 모았으며, 다른 기관과 공동으로 제공하는 데이터도 포함된다.
+
+전체 탐색은 [NASA Astrophysics Data Centers](https://science.nasa.gov/astrophysics/data/)에서 시작할 수 있다.
+
+### 천문학과 천체물리학 데이터
+
+- [MAST — Mikulski Archive for Space Telescopes](https://archive.stsci.edu/) **[관측 아카이브]**
+  - 데이터: 허블, 제임스 웹, Kepler, TESS 등의 영상, 스펙트럼, 시계열 자료.
+  - 접근: 홈페이지의 MAST Portal과 MAST Search에서 천체 이름이나 좌표로 검색. 프로그래밍으로 다루려면 공식 [MAST Notebooks](https://spacetelescope.github.io/mast_notebooks/intro.html) 참고.
+  - 해볼 것: TESS 광도곡선에서 별의 밝기가 주기적으로 줄어드는 구간 찾아보기.
+- [IRSA — NASA/IPAC Infrared Science Archive](https://irsa.ipac.caltech.edu/) **[관측 아카이브]**
+  - 데이터: WISE, Spitzer, 2MASS 등의 적외선 영상과 천체 목록.
+  - 접근: 홈페이지의 천체 검색, Catalogs, IRSA Viewer 사용.
+  - 해볼 것: 같은 성운의 적외선 영상을 가시광선 영상과 비교하기.
+- [HEASARC — High Energy Astrophysics Science Archive Research Center](https://heasarc.gsfc.nasa.gov/) **[관측 아카이브]**
+  - 데이터: X선과 감마선 등 고에너지 천체물리 관측 자료.
+  - 접근: 홈페이지에서 관측 임무별 자료와 검색 도구 탐색. 실제 분석은 각 임무의 데이터 처리 안내를 함께 읽기.
+  - 해볼 것: 블랙홀 후보 천체나 초신성 잔해의 관측 기록 찾아보기.
+- [LAMBDA — Legacy Archive for Microwave Background Data Analysis](https://lambda.gsfc.nasa.gov/) **[관측 아카이브와 분석 도구]**
+  - 데이터: 우주배경복사 연구를 위한 우주론 관측 자료와 분석 도구.
+  - 접근: 임무별 데이터 페이지에서 지도와 관련 자료 확인.
+  - 해볼 것: 우주배경복사 지도의 작은 온도 차이와 전경 신호가 어떻게 구분되는지 살펴보기.
+- [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) **[외계행성 데이터베이스]**
+  - 데이터: 외계행성과 모항성의 물리량, 광도곡선, 스펙트럼 등.
+  - 접근: 웹 테이블 또는 [TAP 서비스](https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html)로 조회. TAP 결과는 CSV나 JSON 등으로 받을 수 있다.
+  - 해볼 것: 공전주기와 행성 반지름의 분포 그리기. 결측값, 단위, 측정 오차와 데이터 출처를 함께 확인하기.
+
+### 태양계와 행성 탐사 데이터
+
+- [PDS — Planetary Data System](https://pds.nasa.gov/) **[행성 탐사 아카이브]**
+  - 데이터: NASA 행성 탐사 임무와 관련 지상 관측, 실험에서 얻은 자료.
+  - 접근: [Data Users](https://pds.nasa.gov/home/users/) 안내에서 주제별 노드와 검색 도구 탐색.
+  - 해볼 것: 화성이나 달의 관측 영상을 찾고, 관측 시각과 장비 및 처리 수준 확인하기.
+- [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) **[천체 위치 계산 서비스]**
+  - 데이터: 태양계 천체의 위치와 속도 등 천체력 계산 결과. 관측 원본 파일을 모아 둔 아카이브와는 다르다.
+  - 접근: [웹 앱](https://ssd.jpl.nasa.gov/horizons/app.html), [튜토리얼](https://ssd.jpl.nasa.gov/horizons/tutorial.html), [API 문서](https://ssd-api.jpl.nasa.gov/doc/horizons.html).
+  - 해볼 것: 직접 만든 행성 공전 궤도 계산기와 결과 비교하기. 비교 전에 기준 좌표계, 원점, 시각 체계, 단위와 보정 조건을 맞추기.
+
+### 지구 관측 데이터와 Space Apps
+
+천체물리학과는 별도 분야지만, 공개 위성 데이터를 탐색하고 프로젝트에 활용하는 경로로 함께 정리한다.
+
+- [Earthdata Search](https://search.earthdata.nasa.gov/) **[지구 관측 데이터 검색]**
+  - 데이터: 대기, 해양, 육지 등 지구 관측 자료. NASA 외 협력 기관의 자료도 검색된다.
+  - 접근: 지역, 기간, 관측 장비, 처리 수준 등의 조건으로 검색. 다운로드에는 Earthdata Login이 필요하며, 일부 자료는 별도 이용 동의가 필요하다. [공식 사용 안내](https://www.earthdata.nasa.gov/data/tools/earthdata-search) 참고.
+  - 해볼 것: 특정 지역과 기간의 관측 자료를 골라 계절별 변화 비교하기.
+- [NASA Worldview](https://worldview.earthdata.nasa.gov/) **[위성영상 시각화]**
+  - 데이터: 위성 관측 자료를 지도 위에 표시하는 영상 레이어.
+  - 접근: 브라우저에서 날짜와 레이어를 바꿔 비교. [공식 도구 안내](https://www.earthdata.nasa.gov/data/tools/worldview) 참고.
+  - 해볼 것: 산불 연기나 태풍이 시간에 따라 이동하는 모습 살펴보기. 시각화 영상과 정량 분석용 원본 자료는 구분하기.
+
+[NASA Space Apps Challenge](https://www.spaceappschallenge.org/)는 공개 데이터를 활용할 문제를 찾는 출발점으로 활용할 수 있다. 참가할 때는 해당 연도와 개별 챌린지 페이지의 요구사항 및 연결된 자료를 먼저 확인한다. 위 목록은 특정 연도 챌린지의 전체 데이터 목록이 아니다.
+
+### API와 데이터 사용 시 주의사항
+
+- [NASA Open APIs](https://api.nasa.gov/)는 앱 개발에 접근하기 쉬운 API 목록과 API 키 안내를 제공한다. NASA의 모든 API나 과학 데이터 아카이브를 모은 사이트는 아니다.
+- 인증 방식과 호출 제한은 서비스마다 확인한다. NASA Open APIs의 키가 모든 아카이브에 공통으로 적용된다고 가정하지 않는다.
+- 처음에는 한 천체나 좁은 지역 및 짧은 기간으로 범위를 제한한다. 자료 전체를 내려받기 전에 파일 형식, 용량, 처리 수준과 품질 플래그를 확인한다.
+- 공개 자료라도 재배포 조건과 출처 표기를 일괄적으로 단정하지 않는다. 개별 데이터의 이용 조건, DOI, 논문 인용 및 임무별 감사 표기 지침을 확인한다.
+- 분석 기록에는 데이터 식별자, 버전, 조회 날짜와 검색 조건을 남긴다. 실습 결과를 공개할 때도 원본을 추적할 수 있도록 출처를 함께 적는다.
 
 ---
 
