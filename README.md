@@ -303,9 +303,7 @@
 
 ## NASA 공개 관측 데이터와 활용 도구
 
-NASA가 직접 운영하거나 지원하는 관측 자료와 도구를 모았다. 다른 기관과 공동으로 제공하는 데이터도 포함한다.
-
-[NASA Astrophysics Data Centers](https://science.nasa.gov/astrophysics/data/)에서 분야별 아카이브와 데이터베이스를 찾아볼 수 있다.
+- [NASA Astrophysics Data Centers](https://science.nasa.gov/astrophysics/data/) - 분야별 천체물리학 아카이브와 데이터베이스 안내
 
 ### 천문학과 천체물리학 데이터
 
@@ -322,17 +320,13 @@ NASA가 직접 운영하거나 지원하는 관측 자료와 도구를 모았다
 
 ### 지구 관측 데이터와 Space Apps
 
-지구 관측은 천체물리학과 별도 분야지만, Space Apps 등에서 활용할 공개 위성 자료를 찾을 때 참고할 수 있다.
-
 - [Earthdata Search](https://search.earthdata.nasa.gov/) - 대기, 해양, 육지 등 지구 관측 자료 검색 서비스, NASA 외 협력 기관 자료 포함 (다운로드 시 Earthdata Login 필요, 일부 자료는 별도 이용 동의 필요)
 - [NASA Worldview](https://worldview.earthdata.nasa.gov/) - 위성 관측 자료를 영상 레이어로 지도 위에 표시하는 시각화 도구
-
-[NASA Space Apps Challenge](https://www.spaceappschallenge.org/)에서 공개 데이터로 풀어볼 문제를 찾아볼 수 있다. 참가할 때는 해당 연도의 개별 챌린지 페이지에서 요구사항과 연결된 자료를 먼저 확인한다. 이 목록은 일부 자료를 골라 정리한 것으로, 특정 연도 챌린지의 전체 데이터 목록은 아니다.
+- [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) - 공개 데이터를 활용하는 연도별 챌린지와 관련 자료 안내
 
 ### API와 데이터 사용 시 주의사항
 
-- [NASA Open APIs](https://api.nasa.gov/) - 앱 개발자를 위한 API 목록과 API 키 안내
-  - NASA의 모든 API나 과학 데이터 아카이브를 모은 사이트는 아니다.
+- [NASA Open APIs](https://api.nasa.gov/) - 앱 개발자를 위한 API 목록과 API 키 안내 (전체 NASA API나 과학 데이터 아카이브 목록은 아님)
 - 개별 데이터의 이용 조건과 출처 표기 지침을 확인한다.
 
 ---
