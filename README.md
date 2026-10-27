@@ -1,4 +1,4 @@
-# 🔭 천체물리학, 천문학을 공부하기 위한 자료 모음집입니다. (for me)
+# 천체물리학과 천문학 학습 자료
 
 **천체물리학(Astrophysics)**
 > 천체에서 일어나는 각종 현상을 물리학의 이론을 이용하여 설명·예측하는 학문
@@ -37,7 +37,7 @@
 ## 종합 학습 플랫폼
 
 ### 한국어
-- [한국천문연구원 (KASI)](https://www.kasi.re.kr/) - 국내 천문 연구기관 공식 사이트
+- [한국천문연구원 (KASI)](https://www.kasi.re.kr/) - 국내 천문 연구기관의 공식 사이트
 - [천문우주지식정보 (KASI)](https://astro.kasi.re.kr/index) - KASI 운영 종합 천문 지식 포털
 - [천문학습관 (KASI)](https://astro.kasi.re.kr/learning/pageView/40) - 교육 동영상, 개념 설명, 천체물리학 전 분야 학습 자료
 - [고등과학원 HORIZON](https://horizon.kias.re.kr/) - 한국고등과학원(KIAS) 과학 해설
@@ -46,12 +46,12 @@
 - [쉽게 설명하는 천문학 블로그](https://m.blog.naver.com/PostList.naver?blogId=hongju3498&categoryNo=44&logCode=0)
 
 ### 영어
-- [Khan Academy – Cosmology & Astronomy](https://www.khanacademy.org/science/cosmology-and-astronomy) - 87개 이상 무료 강의 영상, 별/블랙홀/은하/우주론 전 분야
+- [Khan Academy – Cosmology & Astronomy](https://www.khanacademy.org/science/cosmology-and-astronomy) - 별, 블랙홀, 은하, 우주론을 다루는 무료 강의 영상 87개 이상
 - [NASA Science](https://science.nasa.gov/learn/learning-resources/) - NASA 공식 교육 자료 허브
-- [ESA CESAR](https://cesar.esa.int/) - ESA 교육 프로그램, 학교 수준별 자료
+- [ESA CESAR](https://cesar.esa.int/) - 학교급별 자료를 제공하는 ESA 교육 프로그램
 - [Crash Course Astronomy (PBS)](https://thecrashcourse.com/topic/astronomy/) - 46편 완결 시리즈, YouTube 무료
 - [MIT OpenCourseWare – Introduction to Astronomy](https://ocw.mit.edu/courses/8-282j-introduction-to-astronomy-spring-2006/) - MIT 대학 강의 자료 무료 공개
-- [OpenStax Astronomy 2e](https://openstax.org/books/astronomy-2e/pages/1-introduction) - 무료 대학 교재, 전 분야 포괄
+- [OpenStax Astronomy 2e](https://openstax.org/books/astronomy-2e/pages/1-introduction) - 천문학 전반을 다루는 무료 대학 교재
 - [Chandra X-ray Observatory Education](https://chandra.harvard.edu/edu/formal/index.html) - 하버드/NASA 운영, 고에너지 천체물리학 교육
 - [NASA Universe of Learning](https://universe-of-learning.org/home) - NASA 탐사 미션 연계 멀티미디어 자료
 - [Imagine the Universe (NASA GSFC)](https://imagine.gsfc.nasa.gov/) - 14세 이상 대상 고에너지 천체물리학 교육
@@ -74,7 +74,7 @@
 - [PhET 케플러 법칙 시뮬레이션 (한국어)](https://phet.colorado.edu/ko/simulations/keplers-laws) - 타원 궤도, 면적 속도, 조화의 법칙 인터랙티브 시뮬레이션
 
 **영어**
-- [Khan Academy – Kepler's First Law (NASA 파트너십)](https://www.khanacademy.org/partner-content/nasa/measuringuniverse/orbital-mechanics/a/keplers-first-law) - 3가지 법칙 전체 커버
+- [Khan Academy – Kepler's First Law (NASA 파트너십)](https://www.khanacademy.org/partner-content/nasa/measuringuniverse/orbital-mechanics/a/keplers-first-law) - 케플러의 3가지 법칙 설명
 - [NASA JPL – Exploring Exoplanets with Kepler](https://www.jpl.nasa.gov/edu/resources/lesson-plan/exploring-exoplanets-with-kepler/) - 케플러 제3법칙으로 외계행성 계산하는 수업 자료
 - [JavaLab 케플러 법칙 시뮬레이션](https://javalab.org/en/keplers_law_en/) - 궤도 속도와 면적 시각화
 - [NAAP – Planetary Orbit Simulator](https://astro.unl.edu/naap/) - 타원 궤도와 케플러 법칙 실시간 확인
@@ -88,8 +88,8 @@
 - [플랑크 법칙 – 위키백과 (한국어)](https://ko.wikipedia.org/wiki/%ED%94%8C%EB%9E%91%ED%81%AC_%EB%B2%95%EC%B9%99) - 수식과 물리적 의미 설명
 
 **영어**
-- [PhET – Blackbody Spectrum](https://phet.colorado.edu/en/simulations/blackbody-spectrum) - 온도 조절로 흑체 스펙트럼 피크 이동 실시간 시각화
-- [Academo – Planck's Law Interactive](https://academo.org/demos/blackbody-radiation/) - 빈의 변위 법칙 표시 옵션 포함 웹 시뮬레이션
+- [PhET – Blackbody Spectrum](https://phet.colorado.edu/en/simulations/blackbody-spectrum) - 온도를 바꾸며 흑체 스펙트럼의 피크가 이동하는 모습 확인
+- [Academo – Planck's Law Interactive](https://academo.org/demos/blackbody-radiation/) - 빈의 변위 법칙을 표시할 수 있는 웹 시뮬레이션
 - [The Physics Hypertextbook – Blackbody Radiation](https://physics.info/planck/) - 플랑크 법칙 수식, 그래프, 물리적 배경
 - [Energy Education – Wien's Law](https://energyeducation.ca/encyclopedia/Wiens_Law) - 별의 색과 온도 관계 설명
 
@@ -103,19 +103,19 @@
 
 **영어**
 - [NASA Science – What is a Lagrange Point?](https://science.nasa.gov/resource/what-is-a-lagrange-point/) - NASA 공식 설명, JWST L2 활용 포함
-- [NASA WMAP – Lagrange Points](https://map.gsfc.nasa.gov/mission/observatory_l2.html) - WMAP/JWST 사용 L2 포인트 상세 설명
-- [Falstad's Lagrange Point Interactive Simulator](https://www.falstad.com/lagrange/) - 5개 라그랑주점과 궤도 직접 조작 웹 시뮬레이션
+- [NASA WMAP – Lagrange Points](https://map.gsfc.nasa.gov/mission/observatory_l2.html) - WMAP과 JWST가 활용하는 L2 라그랑주점 설명
+- [Falstad's Lagrange Point Interactive Simulator](https://www.falstad.com/lagrange/) - 5개 라그랑주점과 궤도를 직접 조작하는 웹 시뮬레이션
 
 ### 탈출속도
 
 **한국어**
 - [탈출속도 구하기!](https://m.blog.naver.com/PostView.naver?blogId=hongju3498&logNo=220975843676&navType=by)
 - [탈출 속도 – 나무위키](https://namu.wiki/w/%ED%83%88%EC%B6%9C%20%EC%86%8D%EB%8F%84) - 수식 유도, 천체별 탈출속도 비교표 포함
-- [탈출 속도 – 위키백과 (한국어)](https://ko.wikipedia.org/wiki/%ED%83%88%EC%B6%9C_%EC%86%8D%EB%8F%84) - 블랙홀과의 연관성까지 설명
+- [탈출 속도 – 위키백과 (한국어)](https://ko.wikipedia.org/wiki/%ED%83%88%EC%B6%9C_%EC%86%8D%EB%8F%84) - 탈출속도와 블랙홀의 관계 설명
 
 **영어**
 - [Physics Classroom – Escape Velocity Interactive](https://www.physicsclassroom.com/Physics-Interactives/Circular-and-Satellite-Motion/Escape-Velocity/Escape-Velocity-Notes) - 위성 운동과 탈출속도를 연결하는 인터랙티브 노트
-- [Let's Talk Science – Escape Velocity](https://letstalkscience.ca/educational-resources/stem-explained/escape-velocity) - 공식, 예시, 로켓 개념 연계 설명
+- [Let's Talk Science – Escape Velocity](https://letstalkscience.ca/educational-resources/stem-explained/escape-velocity) - 탈출속도 공식과 예시, 로켓과의 관계 설명
 
 ### 별까지의 거리 측정
 
@@ -145,8 +145,8 @@
 
 **영어**
 - [NAAP – Celestial Equatorial Coordinate System](https://astro.unl.edu/naap/motion1/cec_units.html) - 네브래스카대 인터랙티브 설명, 천구 개념 포함
-- [NASA – Reference Systems (Basics of Space Flight)](https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/) - NASA 우주 비행 기초에서의 좌표계
-- [StarWalk – Right Ascension, Declination](https://starwalk.space/en/news/celestial-coordinates) - 실용적인 천체 관측 활용 설명
+- [NASA – Reference Systems (Basics of Space Flight)](https://science.nasa.gov/learn/basics-of-space-flight/chapter2-2/) - 우주 비행에 사용하는 좌표계 설명
+- [StarWalk – Right Ascension, Declination](https://starwalk.space/en/news/celestial-coordinates) - 천체 관측에서 적경과 적위를 사용하는 방법
 
 ### 행성 운동
 
@@ -155,7 +155,7 @@
 - [PhET 중력과 궤도 (한국어)](https://phet.colorado.edu/ko/simulations/gravity-and-orbits) - 태양-지구-달-우주정거장 궤도 조작 시뮬레이션
 
 **영어**
-- [PhET – My Solar System](https://phet.colorado.edu/en/simulations/my-solar-system) - 2~4개 천체의 질량/속도/위치 설정해 궤도 시뮬레이션
+- [PhET – My Solar System](https://phet.colorado.edu/en/simulations/my-solar-system) - 2~4개 천체의 질량, 속도, 위치를 설정하는 궤도 시뮬레이션
 - [PhET – Gravity and Orbits](https://phet.colorado.edu/en/simulations/gravity-and-orbits) - 중력을 끄고 켜며 궤도 변화 탐구
 - [NAAP – Planetary Orbit Simulator](https://astro.unl.edu/naap/) - 타원 궤도, 이심률, 케플러 법칙 확인 시뮬레이터
 
@@ -209,24 +209,24 @@
 
 **영어**
 - [Chandra – A Black Hole Primer](https://chandra.harvard.edu/blackhole/) - 하버드/NASA 운영, 인터랙티브 입문 가이드
-- [NASA Universe of Learning – Black Holes](https://universe-of-learning.org/informal-educators/science-resources/black-holes) - 교육자용 멀티미디어 자료 모음
+- [NASA Universe of Learning – Black Holes](https://universe-of-learning.org/informal-educators/science-resources/black-holes) - 교육자를 위한 블랙홀 멀티미디어 자료
 - [NASA JPL – Milky Way's Black Hole Teachable Moment](https://www.jpl.nasa.gov/edu/resources/teachable-moment/telescopes-get-extraordinary-view-of-milky-ways-black-hole/) - EHT로 관측한 궁수자리 A* 수업 자료
 - [NASA – Supernovae](https://www.nasa.gov/universe/stars/supernovae/) - NASA 공식 초신성 설명
 - [Chandra – Investigating Supernova Remnants](https://chandra.harvard.edu/edu/formal/snr/teacher.html) - 실제 X선 데이터로 초신성 잔해 분류하는 수업 자료
-- [NASA Science – Webb Studying Quasars](https://science.nasa.gov/missions/webb/nasas-webb-to-study-quasars-and-their-host-galaxies-in-three-dimensions/) - 최신 JWST 퀘이사 연구 교육 자료
+- [NASA Science – Webb Studying Quasars](https://science.nasa.gov/missions/webb/nasas-webb-to-study-quasars-and-their-host-galaxies-in-three-dimensions/) - JWST의 퀘이사 연구를 설명하는 교육 자료
 
 ### 우주배경복사
 
 **한국어**
 - [우주배경복사(Cosmic Microwave Background)](https://m.blog.naver.com/hongju3498/221457441824)
 - [우주배경복사 – 나무위키](https://namu.wiki/w/%EC%9A%B0%EC%A3%BC%EB%B0%B0%EA%B2%BD%EB%B3%B5%EC%82%AC) - 발견 역사(펜지어스-윌슨), 2.7K 온도, 빅뱅의 증거
-- [우주 마이크로파 배경 – 위키백과 (한국어)](https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%A3%BC_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%8C%8C_%EB%B0%B0%EA%B2%BD) - 플랑크 위성 관측, 비등방성 설명 포함
+- [우주 마이크로파 배경 – 위키백과 (한국어)](https://ko.wikipedia.org/wiki/%EC%9A%B0%EC%A3%BC_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%8C%8C_%EB%B0%B0%EA%B2%BD) - 플랑크 위성의 관측과 우주배경복사의 비등방성 설명
 
 **영어**
 - [NASA LAMBDA – CMB Education Resources](https://lambda.gsfc.nasa.gov/education/) - NASA 공식 CMB 교육 자료 허브, Python 노트북 포함
 - [OpenStax Astronomy 2e – The Cosmic Microwave Background](https://openstax.org/books/astronomy-2e/pages/29-4-the-cosmic-microwave-background) - 무료 대학 교재의 CMB 챕터
 - [NASA WMAP CMB Resources](https://map.gsfc.nasa.gov/resources/cmblinks.html) - WMAP 임무 관련 CMB 외부 링크 모음
-- [NASA LAMBDA – CAMB Online Simulator](https://lambda.gsfc.nasa.gov/toolbox/camb_online.html) - 우주론적 파라미터 입력으로 CMB 파워스펙트럼 계산
+- [NASA LAMBDA – CAMB Online Simulator](https://lambda.gsfc.nasa.gov/toolbox/camb_online.html) - 우주론적 매개변수를 입력해 CMB 파워스펙트럼 계산
 
 ### 암흑물질과 암흑에너지
 
@@ -234,11 +234,11 @@
 - [중력파, 암흑물질, 우주배경복사](https://m.blog.naver.com/hongju3498/221164566442)
 - [암흑 물질 – 나무위키](https://namu.wiki/w/%EC%95%94%ED%9D%91%20%EB%AC%BC%EC%A7%88) - 은하 회전 곡선, 중력 렌즈, 탐지 방법
 - [암흑에너지 – 나무위키](https://namu.wiki/w/%EC%95%94%ED%9D%91%EC%97%90%EB%84%88%EC%A7%80) - 우주 가속 팽창, 우주상수, 구성 비율
-- [암흑물질과 암흑에너지 – 고등과학원 HORIZON](https://horizon.kias.re.kr/7795/) - KIAS 전문가 수준 해설
+- [암흑물질과 암흑에너지 – 고등과학원 HORIZON](https://horizon.kias.re.kr/7795/) - KIAS의 암흑물질과 암흑에너지 해설
 
 **영어**
 - [NASA Science – Dark Matter](https://science.nasa.gov/dark-matter/) - NASA 공식 암흑물질 설명
-- [NASA Science – Dark Energy](https://science.nasa.gov/mission/roman-space-telescope/dark-energy/) - 로만 우주망원경 임무와 연계한 암흑에너지 설명
+- [NASA Science – Dark Energy](https://science.nasa.gov/mission/roman-space-telescope/dark-energy/) - 로만 우주망원경으로 암흑에너지를 연구하는 방법 설명
 - [NASA JPL – How Do We See Dark Matter?](https://www.jpl.nasa.gov/edu/resources/lesson-plan/how-do-we-see-dark-matter/) - 중력 렌즈로 암흑물질 탐지 수업 자료
 - [Dark Matter Simulator](https://foothillastrosims.github.io/dark-matter/) - 은하 회전 곡선에서 암흑물질 밀도 조절 시뮬레이션
 
@@ -251,9 +251,9 @@
 - [LIGO와 레이저 간섭계 – 고등과학원 HORIZON](https://horizon.kias.re.kr/25438/) - KIAS 전문가 해설
 
 **영어**
-- [LIGO Caltech – Classroom Activities](https://www.ligo.caltech.edu/page/classroom-activities) - 수업 활동 자료, 수준별 분류
+- [LIGO Caltech – Classroom Activities](https://www.ligo.caltech.edu/page/classroom-activities) - 학습 수준별로 분류한 수업 활동 자료
 - [LIGO – Try This at Home](https://www.ligo.caltech.edu/page/activities-try-home) - 집에서 할 수 있는 중력파 체험 활동
-- [NASA JPL – Gravitational Waves Teachable Moment](https://www.jpl.nasa.gov/edu/resources/teachable-moment/gravitational-waves-detected-for-the-first-time/) - 수업 자료, 최초 검출 의의 설명
+- [NASA JPL – Gravitational Waves Teachable Moment](https://www.jpl.nasa.gov/edu/resources/teachable-moment/gravitational-waves-detected-for-the-first-time/) - 중력파 최초 검출의 의미를 설명하는 수업 자료
 - [gwoptics – Gravitational Wave Detection e-Book](https://www.gwoptics.org/) - 레이저 간섭계 원리와 중력파 검출 방법 무료 전자책
 
 ---
@@ -274,58 +274,73 @@
 
 ## NASA 공개 관측 데이터와 활용 도구
 
-NASA가 직접 운영하거나 지원하는 자료를 모았다. 다른 기관과 공동으로 제공하는 데이터도 포함한다. 관측 자료를 모은 아카이브, 물리량을 정리한 데이터베이스, 천체 위치 계산 서비스, 시각화 도구를 나누어 정리했다.
+NASA가 직접 운영하거나 지원하는 관측 자료와 도구를 모았다. 다른 기관과 공동으로 제공하는 데이터도 포함한다. 각 항목에 자료의 종류, 찾는 방법, 활용 예를 적었다.
 
 [NASA Astrophysics Data Centers](https://science.nasa.gov/astrophysics/data/)에서 분야별 아카이브와 데이터베이스를 찾아볼 수 있다.
 
 ### 천문학과 천체물리학 데이터
 
 - [MAST — Mikulski Archive for Space Telescopes](https://archive.stsci.edu/) **[관측 아카이브]**
-  - 데이터: 허블, 제임스 웹, Kepler, TESS 등의 영상, 스펙트럼, 시계열 자료.
-  - 접근: 홈페이지의 MAST Portal과 MAST Search에서 천체 이름이나 좌표로 검색한다. 코드로 조회하고 분석하는 방법은 공식 [MAST Notebooks](https://spacetelescope.github.io/mast_notebooks/intro.html)를 참고한다.
-  - 해볼 것: TESS 광도곡선에서 별의 밝기가 주기적으로 줄어드는 구간 찾아보기.
+
+  허블, 제임스 웹, Kepler, TESS 등의 영상, 스펙트럼, 시계열 자료를 제공한다. 홈페이지의 MAST Portal과 MAST Search에서 천체 이름이나 좌표로 검색한다. 코드로 조회하고 분석하는 방법은 공식 [MAST Notebooks](https://spacetelescope.github.io/mast_notebooks/intro.html)를 참고한다.
+
+  활용 예: TESS 광도곡선에서 별의 밝기가 주기적으로 줄어드는 구간 찾기.
+
 - [IRSA — NASA/IPAC Infrared Science Archive](https://irsa.ipac.caltech.edu/) **[관측 아카이브]**
-  - 데이터: WISE, Spitzer, 2MASS 등의 적외선 영상과 천체 목록.
-  - 접근: 홈페이지의 천체 검색, Catalogs, IRSA Viewer에서 자료를 찾는다.
-  - 해볼 것: 같은 성운의 적외선 영상을 가시광선 영상과 비교하기.
+
+  WISE, Spitzer, 2MASS 등의 적외선 영상과 천체 목록을 제공한다. 홈페이지의 천체 검색, Catalogs, IRSA Viewer에서 자료를 찾는다.
+
+  활용 예: 같은 성운의 적외선 영상과 가시광선 영상 비교.
+
 - [HEASARC — High Energy Astrophysics Science Archive Research Center](https://heasarc.gsfc.nasa.gov/) **[관측 아카이브]**
-  - 데이터: X선과 감마선 등 고에너지 천체물리 관측 자료.
-  - 접근: 홈페이지에서 관측 임무별 자료와 검색 도구를 찾는다. 자료를 분석할 때는 해당 임무의 데이터 처리 안내를 함께 읽는다.
-  - 해볼 것: 블랙홀 후보 천체나 초신성 잔해의 관측 기록 찾아보기.
+
+  X선과 감마선 등 고에너지 천체물리 관측 자료를 제공한다. 홈페이지에서 관측 임무별 자료와 검색 도구를 찾는다. 자료를 분석할 때는 해당 임무의 데이터 처리 안내를 함께 읽는다.
+
+  활용 예: 블랙홀 후보 천체나 초신성 잔해의 관측 기록 검색.
+
 - [LAMBDA — Legacy Archive for Microwave Background Data Analysis](https://lambda.gsfc.nasa.gov/) **[관측 아카이브와 분석 도구]**
-  - 데이터: 우주배경복사 연구를 위한 우주론 관측 자료와 분석 도구.
-  - 접근: 임무별 데이터 페이지에서 지도와 관련 자료를 확인한다.
-  - 해볼 것: 우주배경복사 지도의 작은 온도 차이와 전경 신호가 어떻게 구분되는지 살펴보기.
+
+  우주배경복사 연구에 사용하는 우주론 관측 자료와 분석 도구를 제공한다. 임무별 데이터 페이지에서 지도와 관련 자료를 확인한다.
+
+  활용 예: 우주배경복사 지도의 작은 온도 차이와 전경 신호를 구분하는 방법 살펴보기.
+
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) **[외계행성 데이터베이스]**
-  - 데이터: 외계행성과 모항성의 물리량, 광도곡선, 스펙트럼 등.
-  - 접근: 웹 테이블 또는 [TAP 서비스](https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html)로 조회한다. TAP 결과는 CSV나 JSON 등으로 받을 수 있다.
-  - 해볼 것: 공전주기와 행성 반지름의 분포 그리기. 결측값, 단위, 측정 오차와 데이터 출처를 함께 확인하기.
+
+  외계행성과 모항성의 물리량, 광도곡선, 스펙트럼 등을 제공한다. 웹 테이블 또는 [TAP 서비스](https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html)로 조회하며, TAP 결과는 CSV나 JSON 등으로 받을 수 있다.
+
+  활용 예: 공전주기와 행성 반지름의 분포 그리기. 결측값, 단위, 측정 오차와 데이터 출처를 함께 확인한다.
 
 ### 태양계와 행성 탐사 데이터
 
 - [PDS — Planetary Data System](https://pds.nasa.gov/) **[행성 탐사 아카이브]**
-  - 데이터: NASA 행성 탐사 임무와 관련 지상 관측, 실험에서 얻은 자료.
-  - 접근: [Data Users](https://pds.nasa.gov/home/users/) 안내에서 주제별 노드와 검색 도구를 찾는다.
-  - 해볼 것: 화성이나 달의 관측 영상을 찾고, 관측 시각과 장비 및 처리 수준 확인하기.
+
+  NASA 행성 탐사 임무와 관련 지상 관측, 실험에서 얻은 자료를 보관한다. [Data Users](https://pds.nasa.gov/home/users/) 안내에서 주제별 노드와 검색 도구를 찾는다.
+
+  활용 예: 화성이나 달의 관측 영상 검색. 영상의 관측 시각, 장비, 처리 수준을 함께 확인한다.
+
 - [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) **[천체 위치 계산 서비스]**
-  - 데이터: 태양계 천체의 위치와 속도 등 천체력 계산 결과. 관측 원본 파일을 모아 둔 아카이브와는 다르다.
-  - 접근: [웹 앱](https://ssd.jpl.nasa.gov/horizons/app.html), [튜토리얼](https://ssd.jpl.nasa.gov/horizons/tutorial.html), [API 문서](https://ssd-api.jpl.nasa.gov/doc/horizons.html).
-  - 해볼 것: 직접 만든 행성 공전 궤도 계산 결과를 Horizons 결과와 비교하기. 비교 전에 기준 좌표계, 원점, 시각 체계, 단위와 보정 조건을 맞추기.
+
+  태양계 천체의 위치와 속도 등 천체력을 계산한다. 관측 원본 파일을 모아 둔 아카이브와는 다르다. [웹 앱](https://ssd.jpl.nasa.gov/horizons/app.html)에서 조회할 수 있으며, 사용 방법은 [튜토리얼](https://ssd.jpl.nasa.gov/horizons/tutorial.html)과 [API 문서](https://ssd-api.jpl.nasa.gov/doc/horizons.html)를 참고한다.
+
+  활용 예: 직접 만든 행성 공전 궤도 계산 결과와 Horizons 결과 비교. 비교 전에 기준 좌표계, 원점, 시각 체계, 단위와 보정 조건을 맞춘다.
 
 ### 지구 관측 데이터와 Space Apps
 
-지구 관측은 천체물리학과 별도 분야다. 공개 위성 데이터를 찾아 프로젝트에 활용할 수 있도록 함께 정리했다.
+지구 관측은 천체물리학과 별도 분야지만, Space Apps 등에서 활용할 공개 위성 자료를 찾을 때 참고할 수 있다.
 
 - [Earthdata Search](https://search.earthdata.nasa.gov/) **[지구 관측 데이터 검색]**
-  - 데이터: 대기, 해양, 육지 등 지구 관측 자료. NASA 외 협력 기관의 자료도 검색된다.
-  - 접근: 지역, 기간, 관측 장비, 처리 수준 등의 조건으로 검색한다. 다운로드하려면 Earthdata Login으로 로그인해야 하며, 일부 자료는 별도 이용 동의가 필요하다. 자세한 사용법은 [공식 사용 안내](https://www.earthdata.nasa.gov/data/tools/earthdata-search)를 참고한다.
-  - 해볼 것: 특정 지역과 기간의 관측 자료를 골라 계절별 변화 비교하기.
-- [NASA Worldview](https://worldview.earthdata.nasa.gov/) **[위성영상 시각화]**
-  - 데이터: 위성 관측 자료를 지도 위에 표시하는 영상 레이어.
-  - 접근: 브라우저에서 날짜와 레이어를 바꿔 영상을 비교한다. 자세한 사용법은 [공식 도구 안내](https://www.earthdata.nasa.gov/data/tools/worldview)를 참고한다.
-  - 해볼 것: 산불 연기나 태풍이 시간에 따라 이동하는 모습 살펴보기. 시각화 영상과 정량 분석용 원본 자료는 구분하기.
 
-[NASA Space Apps Challenge](https://www.spaceappschallenge.org/)에서 공개 데이터로 풀어볼 문제를 찾아볼 수 있다. 참가할 때는 해당 연도의 개별 챌린지 페이지에서 요구사항과 연결된 자료를 먼저 확인한다. 이 목록이 특정 연도 챌린지의 모든 데이터를 담고 있지는 않다.
+  대기, 해양, 육지 등 지구 관측 자료를 지역, 기간, 관측 장비, 처리 수준 등의 조건으로 검색한다. NASA 외 협력 기관의 자료도 검색된다. 다운로드하려면 Earthdata Login으로 로그인해야 하며, 일부 자료는 별도 이용 동의가 필요하다. 자세한 사용법은 [공식 사용 안내](https://www.earthdata.nasa.gov/data/tools/earthdata-search)를 참고한다.
+
+  활용 예: 특정 지역과 기간의 관측 자료를 골라 계절별 변화 비교.
+
+- [NASA Worldview](https://worldview.earthdata.nasa.gov/) **[위성영상 시각화]**
+
+  위성 관측 자료를 영상 레이어로 지도 위에 표시한다. 브라우저에서 날짜와 레이어를 바꿔 영상을 비교한다. 자세한 사용법은 [공식 도구 안내](https://www.earthdata.nasa.gov/data/tools/worldview)를 참고한다.
+
+  활용 예: 시간에 따른 산불 연기나 태풍의 이동 살펴보기. 시각화 영상과 정량 분석용 원본 자료는 구분한다.
+
+[NASA Space Apps Challenge](https://www.spaceappschallenge.org/)에서 공개 데이터로 풀어볼 문제를 찾아볼 수 있다. 참가할 때는 해당 연도의 개별 챌린지 페이지에서 요구사항과 연결된 자료를 먼저 확인한다. 이 목록은 일부 자료를 골라 정리한 것으로, 특정 연도 챌린지의 전체 데이터 목록은 아니다.
 
 ### API와 데이터 사용 시 주의사항
 
