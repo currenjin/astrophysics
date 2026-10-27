@@ -303,47 +303,29 @@
 
 ## NASA 공개 관측 데이터와 활용 도구
 
-NASA가 직접 운영하거나 지원하는 관측 자료와 도구를 모았다. 다른 기관과 공동으로 제공하는 데이터도 포함한다. 각 항목에 자료의 종류, 찾는 방법, 활용 예를 적었다.
+NASA가 직접 운영하거나 지원하는 관측 자료와 도구를 모았다. 다른 기관과 공동으로 제공하는 데이터도 포함한다.
 
 [NASA Astrophysics Data Centers](https://science.nasa.gov/astrophysics/data/)에서 분야별 아카이브와 데이터베이스를 찾아볼 수 있다.
 
 ### 천문학과 천체물리학 데이터
 
 - [MAST (Mikulski Archive for Space Telescopes)](https://archive.stsci.edu/) - 허블, 제임스 웹, Kepler, TESS 등의 영상, 스펙트럼, 시계열 관측 자료 아카이브
-  - 접근: 홈페이지의 MAST Portal과 MAST Search에서 천체 이름이나 좌표로 검색한다. 코드로 조회하고 분석하는 방법은 공식 [MAST Notebooks](https://spacetelescope.github.io/mast_notebooks/intro.html)를 참고한다.
-  - 활용 예: TESS 광도곡선에서 별의 밝기가 주기적으로 줄어드는 구간 찾기.
 - [IRSA (NASA/IPAC Infrared Science Archive)](https://irsa.ipac.caltech.edu/) - WISE, Spitzer, 2MASS 등의 적외선 영상과 천체 목록 아카이브
-  - 접근: 홈페이지의 천체 검색, Catalogs, IRSA Viewer에서 자료를 찾는다.
-  - 활용 예: 같은 성운의 적외선 영상과 가시광선 영상 비교.
 - [HEASARC (High Energy Astrophysics Science Archive Research Center)](https://heasarc.gsfc.nasa.gov/) - X선과 감마선 등 고에너지 천체물리 관측 자료 아카이브
-  - 접근: 홈페이지에서 관측 임무별 자료와 검색 도구를 찾는다. 자료를 분석할 때는 해당 임무의 데이터 처리 안내를 함께 읽는다.
-  - 활용 예: 블랙홀 후보 천체나 초신성 잔해의 관측 기록 검색.
 - [LAMBDA (Legacy Archive for Microwave Background Data Analysis)](https://lambda.gsfc.nasa.gov/) - 우주배경복사 연구를 위한 우주론 관측 자료 아카이브와 분석 도구
-  - 접근: 임무별 데이터 페이지에서 지도와 관련 자료를 확인한다.
-  - 활용 예: 우주배경복사 지도의 작은 온도 차이와 전경 신호를 구분하는 방법 살펴보기.
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) - 외계행성과 모항성의 물리량, 광도곡선, 스펙트럼 등을 제공하는 데이터베이스
-  - 접근: 웹 테이블 또는 [TAP 서비스](https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html)로 조회하며, TAP 결과는 CSV나 JSON 등으로 받을 수 있다.
-  - 활용 예: 공전주기와 행성 반지름의 분포 그리기. 결측값, 단위, 측정 오차와 데이터 출처를 함께 확인한다.
 
 ### 태양계와 행성 탐사 데이터
 
 - [PDS (Planetary Data System)](https://pds.nasa.gov/) - NASA 행성 탐사 임무와 관련 지상 관측, 실험 자료를 보관하는 아카이브
-  - 접근: [Data Users](https://pds.nasa.gov/home/users/) 안내에서 주제별 노드와 검색 도구를 찾는다.
-  - 활용 예: 화성이나 달의 관측 영상 검색. 영상의 관측 시각, 장비, 처리 수준을 함께 확인한다.
-- [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) - 태양계 천체의 위치와 속도 등 천체력을 계산하는 서비스
-  - 접근: [웹 앱](https://ssd.jpl.nasa.gov/horizons/app.html)에서 조회할 수 있으며, 사용 방법은 [튜토리얼](https://ssd.jpl.nasa.gov/horizons/tutorial.html)과 [API 문서](https://ssd-api.jpl.nasa.gov/doc/horizons.html)를 참고한다. 관측 원본 파일을 모아 둔 아카이브와는 다르다.
-  - 활용 예: 직접 만든 행성 공전 궤도 계산 결과와 Horizons 결과 비교. 비교 전에 기준 좌표계, 원점, 시각 체계, 단위와 보정 조건을 맞춘다.
+- [JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) - 태양계 천체의 위치와 속도 등 천체력을 계산하는 서비스 (관측 원본 아카이브가 아님)
 
 ### 지구 관측 데이터와 Space Apps
 
 지구 관측은 천체물리학과 별도 분야지만, Space Apps 등에서 활용할 공개 위성 자료를 찾을 때 참고할 수 있다.
 
-- [Earthdata Search](https://search.earthdata.nasa.gov/) - 대기, 해양, 육지 등 지구 관측 자료 검색 서비스, NASA 외 협력 기관 자료 포함
-  - 접근: 지역, 기간, 관측 장비, 처리 수준 등의 조건으로 검색한다. 다운로드하려면 Earthdata Login으로 로그인해야 하며, 일부 자료는 별도 이용 동의가 필요하다. 자세한 사용법은 [공식 사용 안내](https://www.earthdata.nasa.gov/data/tools/earthdata-search)를 참고한다.
-  - 활용 예: 특정 지역과 기간의 관측 자료를 골라 계절별 변화 비교.
+- [Earthdata Search](https://search.earthdata.nasa.gov/) - 대기, 해양, 육지 등 지구 관측 자료 검색 서비스, NASA 외 협력 기관 자료 포함 (다운로드 시 Earthdata Login 필요, 일부 자료는 별도 이용 동의 필요)
 - [NASA Worldview](https://worldview.earthdata.nasa.gov/) - 위성 관측 자료를 영상 레이어로 지도 위에 표시하는 시각화 도구
-  - 접근: 브라우저에서 날짜와 레이어를 바꿔 영상을 비교한다. 자세한 사용법은 [공식 도구 안내](https://www.earthdata.nasa.gov/data/tools/worldview)를 참고한다.
-  - 활용 예: 시간에 따른 산불 연기나 태풍의 이동 살펴보기. 시각화 영상과 정량 분석용 원본 자료는 구분한다.
 
 [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)에서 공개 데이터로 풀어볼 문제를 찾아볼 수 있다. 참가할 때는 해당 연도의 개별 챌린지 페이지에서 요구사항과 연결된 자료를 먼저 확인한다. 이 목록은 일부 자료를 골라 정리한 것으로, 특정 연도 챌린지의 전체 데이터 목록은 아니다.
 
@@ -351,10 +333,7 @@ NASA가 직접 운영하거나 지원하는 관측 자료와 도구를 모았다
 
 - [NASA Open APIs](https://api.nasa.gov/) - 앱 개발자를 위한 API 목록과 API 키 안내
   - NASA의 모든 API나 과학 데이터 아카이브를 모은 사이트는 아니다.
-- 인증 방식과 호출 제한은 서비스마다 확인한다. NASA Open APIs의 키가 모든 아카이브에 공통으로 적용된다고 가정하지 않는다.
-- 처음에는 천체 하나를 고르거나 지역과 기간을 좁혀 조회한다. 자료 전체를 내려받기 전에 파일 형식, 용량, 처리 수준과 품질 플래그를 확인한다.
-- 공개 자료라도 재배포 조건과 출처 표기 방식은 개별 데이터에서 확인한다. 이용 조건, DOI, 논문 인용 및 임무별 감사 표기 지침을 읽는다.
-- 분석 기록에는 데이터 식별자, 버전, 조회 날짜와 검색 조건을 남긴다. 실습 결과를 공개할 때도 원본을 추적할 수 있도록 출처를 함께 적는다.
+- 개별 데이터의 이용 조건과 출처 표기 지침을 확인한다.
 
 ---
 
